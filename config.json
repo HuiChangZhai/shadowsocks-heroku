@@ -3,7 +3,7 @@
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 51888,
+  "remote_port": 80,
   "password": "www.zhai.org",
   "timeout": 600,
   "method": "aes-256-cfb"
